@@ -30,6 +30,6 @@ imagesc(x1([1 end]),x2([1 end]),DS);
  hold on 
  plot(H0(:,1),H0(:,2),'b*'); % H0
 
- plot(H1(:,1),H1(:,2),'ro') % H1
+ plot(H1(:,1),H1(:,2),'ro') % H2
  
 end
